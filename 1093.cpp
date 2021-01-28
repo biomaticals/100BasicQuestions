@@ -15,6 +15,5 @@ int main(void)
     }
     for (int i = 0; i < 23; i++)
         printf("%d ", nStudent[i]);
-
     return 0;
 }
